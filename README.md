@@ -7,7 +7,7 @@ By William Dale, R11878809
 
 
 ## March 4th
-[Stack question code](mar4queue.c)
+[Queue question code](mar4queue.c)
 <br />
-[Queue question code](mar4stack.c)
+[Stack question code](mar4stack.c)
 <br />
