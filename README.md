@@ -11,3 +11,7 @@ By William Dale, R11878809
 <br />
 [Stack question code](mar4stack.c) [Video](https://texastechuniversity-my.sharepoint.com/:v:/g/personal/wildale_ttu_edu/EZsAA-PTwElJiXviPbA2fQQB2yFwSJwSMsaATyWUlnueBQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ryeq7W)
 <br />
+
+## April 8th
+[Code](apr8.c)
+[Video](https://texastechuniversity-my.sharepoint.com/:v:/g/personal/wildale_ttu_edu/EYzvDnErnJdDrFN-TXEKeNMB9FV2u0AXLRiaSieWM6DFGQ?e=61eHSk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
