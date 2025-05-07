@@ -15,3 +15,7 @@ By William Dale, R11878809
 ## April 8th
 [Code](apr8.c)
 [Video](https://texastechuniversity-my.sharepoint.com/:v:/g/personal/wildale_ttu_edu/EYzvDnErnJdDrFN-TXEKeNMB9FV2u0AXLRiaSieWM6DFGQ?e=61eHSk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+## May 6th
+[Code](may6.c)
+[Video](https://texastechuniversity-my.sharepoint.com/:v:/g/personal/wildale_ttu_edu/EcrMRHi9QddGuQLQflujNWYBjGlN25OcDa3SK0qmljFgAw?e=alXpHY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
